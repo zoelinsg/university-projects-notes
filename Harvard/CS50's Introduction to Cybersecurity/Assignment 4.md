@@ -54,3 +54,5 @@
 
 **Q10: In web server logs, what does the `$http_referer` variable represent, in layman’s terms (without using the word "refer")?**
 **A10:** The URL of the page the user just came from.
+
+---

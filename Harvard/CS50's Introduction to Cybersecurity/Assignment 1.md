@@ -52,3 +52,5 @@
 
 **Q10: Otkz D zvmizy v amzz kjdio! di ocz wjs wzgjr. (Not random typing.)**
 **A10:** “Type I earned a free point!”
+
+---

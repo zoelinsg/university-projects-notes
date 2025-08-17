@@ -11,6 +11,7 @@
 **Q2: If I have a six-character password consisting of uppercase (English) letters and (decimal) digits only, how many seconds might it take an adversary to crack, assuming they make one attempt per second?**
 
 **A2:** 2,176,782,336 seconds.
+
 ---
 
 **Q3: Humor us for a moment, and play The Password Game, trying to get through at least Rule 12. While obviously the game itself is in many ways meant to be humorous, it also critiques the experience many of us have setting up new passwords. Explain how there's a trade-off between usability and security in the context of passwords.**
@@ -57,3 +58,5 @@
 **Q10: Suppose that your boss asks you whether the company should require use of password managers for all employees. Explain in a short paragraph why you might want everyone in the company to use a password manager.**
 
 **A10:** Password managers encourage the use of strong, unique passwords for every account without requiring employees to remember them all. This reduces the risks of weak or reused passwords and lowers the impact of credential stuffing attacks. It also simplifies employees’ login experiences, improving both security and usability.
+
+---
