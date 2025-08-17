@@ -1,4 +1,4 @@
-# Assignment 1
+## Assignment 1
 
 **Q1: Characterize the difference between a database hack and a database leak.**
 

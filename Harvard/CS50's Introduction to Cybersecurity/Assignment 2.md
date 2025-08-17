@@ -1,4 +1,4 @@
-# Assignment 2
+## Assignment 2
 
 **Q1: Considering its nature, what type of cybersecurity threat might pose the most unique risk to research projects like SETI\@Home? How might such a threat be realized?**
 

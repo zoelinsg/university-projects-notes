@@ -1,4 +1,4 @@
-# Assignment 3
+## Assignment 3
 
 **Q1: Via what technique(s) might a malicious actor "crack" software (that is, bypass registration/payment to use it)?**
 
