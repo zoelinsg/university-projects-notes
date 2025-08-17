@@ -1,7 +1,5 @@
 # Assignment 3
 
----
-
 **Q1: Via what technique(s) might a malicious actor "crack" software (that is, bypass registration/payment to use it)?**
 **A1:** Binary patching, keygens, memory hooks, DLL injection, fake license services.
 

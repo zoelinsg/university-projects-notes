@@ -1,7 +1,5 @@
 # Assignment 2
 
----
-
 **Q1: Considering its nature, what type of cybersecurity threat might pose the most unique risk to research projects like SETI\@Home? How might such a threat be realized?**
 **A1:** Supply chain compromise. If the project’s main server is breached, attackers could push malicious work units or updates; volunteers’ clients would then execute the code, creating botnets or installing malware.
 

@@ -1,7 +1,5 @@
 # Assignment 4
 
----
-
 **Q1: How does the below HTML tag help to protect your privacy online?**
 
 ```html

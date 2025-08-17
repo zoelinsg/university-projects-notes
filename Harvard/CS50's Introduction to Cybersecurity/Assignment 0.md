@@ -1,7 +1,5 @@
 # Assignment 0
 
----
-
 **Q1: Why might being required to change our passwords regularly actually pose a threat to our security?**
 
 **A1:** Frequent password changes can lead users to choose simpler or more predictable passwords, which are easier to forget and easier for attackers to guess.
