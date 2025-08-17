@@ -1,6 +1,4 @@
-## Assignment 0
-
----
+# Assignment 0
 
 **Q1: Why might being required to change our passwords regularly actually pose a threat to our security?**
 
